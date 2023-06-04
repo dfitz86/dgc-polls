@@ -14,10 +14,17 @@ external_profile_url:
 **External Website:** https://dijets.io/council  
 
 ### Brief Introduction
+Hello im Daniel,
 
+I am a mission driven individual with a commitment to creating greater prosperity for the world. I have spent the last 20 + years in my business and political roles bringing people together behind a "vision of the future" to drive change and deliver objectives. 
+
+I am fascinated by the digital opportunities of web 3.0 and blockchain to create greater wealth, freedom and opportunity for people to achieve their full potential, creating and serving others more. Outside of my business and political roles, i enjoy reading, yoga, travelling and great coffee and food! I love to meet people and understand their thinking and views of the world.
 
 ### DGC Member Statement
 
+I am deeply committed to using my "people skills", understanding and fascinating of human behaviour, to support our Dijets objectives, through not only delivering our vision and mission, but inspiring, empowering and developing our teams, partners and future generations to the potentiality of blockchain and the new digital apparatus. 
+
+This is an in incredibly exciting time for humanity in unlocking the opportunities to create greater prosperity and serve others at a new enhanced level of human consciousness and its great to be part of the Dijet's team to support and deliver this.
 
 ### Conflicts of Interest
 
